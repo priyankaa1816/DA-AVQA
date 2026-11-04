@@ -28,9 +28,7 @@ logs/
 outputs/
 runs/
 
-# Generated figures - keep folder, not generated files
-figures/*
-!figures/.gitkeep
+
 
 # System files
 .DS_Store
