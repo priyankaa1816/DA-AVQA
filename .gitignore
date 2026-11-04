@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Datasets
+data/
+datasets/
+BeDAMQA/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Extracted features and temporary outputs
+features/
+cache/
+logs/
+outputs/
+runs/
+
+# Generated figures - keep folder, not generated files
+figures/*
+!figures/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db

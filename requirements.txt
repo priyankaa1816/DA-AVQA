@@ -1,0 +1,11 @@
+# Install PyTorch first with the build that matches the GPU's CUDA version, e.g.
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+numpy
+pandas
+openpyxl
+scipy
+opencv-python
+pyyaml
+timm>=1.0.17
+einops
+open_clip_torch
